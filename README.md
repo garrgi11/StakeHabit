@@ -1,1 +1,2 @@
-# StakeHabit
+# habit_tracker
+
